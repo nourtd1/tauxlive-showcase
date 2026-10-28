@@ -1,4 +1,4 @@
-# TauxLive
+#Offline-first currency converter for African markets: parallel rates & Mobile Money fee comparison. Live on iOS.react-native currency-converter mobile-money offline-first fintech africa mobile-app
 
 > A freemium, offline-first currency converter built for African markets, with parallel exchange rates and Mobile Money fee comparison.
 
